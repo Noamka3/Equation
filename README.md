@@ -1,8 +1,9 @@
-הפרויקט נכתב בשפת ++C ומדמה מערכת מתמטית לחישוב, ניתוח וייצוג של פונקציות ומשוואות ליניאריות.
-המערכת מבוססת על עקרונות תכנות מונחה־עצמים (OOP) וכוללת שלוש מחלקות עיקריות: Variable, Function, ו־LinearEquation.
-המחלקות כוללות עומס אופרטורים מתקדם, פונקציות העתקה, השוואות וחישובים מתמטיים מלאים.
-באמצעות המחלקה Function ניתן להרכיב פונקציות מחוברות ממשתנים ולבצע עליהן פעולות כמו חיבור, חיסור וכפל.
-המחלקה LinearEquation מאפשרת להמיר פונקציה למשוואה ליניארית ולבצע עליה פעולות מתמטיות שונות.
-בנוסף, נוספה פונקציה חיצונית הבודקת האם קיים פתרון יחיד למערכת משוואות נתונה.
-הפרויקט מציג הבנה עמוקה בעקרונות ניהול זיכרון, מצביעים ודינמיות ב־C++.
-הקוד מלווה בהדפסות ברורות ומאפשר למשתמש לראות את שלבי הבנייה והחישוב של המשוואות.
+This project was written in C++ and simulates a mathematical system for calculating, analyzing, and representing linear functions and equations.
+It is based on Object-Oriented Programming (OOP) principles and includes three main classes: Variable, Function, and LinearEquation.
+Each class implements advanced operator overloading, copy constructors, comparison logic, and mathematical operations.
+The Function class allows building expressions from multiple variables and supports addition, subtraction, and multiplication.
+The LinearEquation class converts a function into a linear equation and enables mathematical manipulations between equations.
+An additional utility function checks whether a given system of equations has a single possible solution.
+The project demonstrates strong understanding of memory management, pointers, and dynamic allocation in C++.
+Clear console output allows users to visualize each step of the equation creation and calculation.
+Developed by Noam Kadosh, Software Engineering student, as part of an advanced academic project.
